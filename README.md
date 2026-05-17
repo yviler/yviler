@@ -8,7 +8,6 @@ and back-office tools running across two restaurant locations, processing
 
 Currently working on:
 - LocalDrop — a local network file sharing tool (FastAPI)
-- Learning Django and JavaScript properly
 
 Stack I work with:
 - Python, Flask, FastAPI (learning Django)
